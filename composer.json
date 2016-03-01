@@ -1,5 +1,5 @@
 {
-  "name": "pixline/wp-cli-php-devtools",
+  "name": "vburlak/wp-cli-php-devtools",
   "type": "command",
   "description": "Wrapper around common development utilities",
   "keywords": ["wp-cli","phpcpd","phpcs","phpdcd","phploc","phpmd","phpunit","phpreport","development"],
